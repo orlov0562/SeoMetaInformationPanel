@@ -8,6 +8,6 @@ Tampermonkey script that shows panel on every site/page with title, description,
 
 After installation go to TamperMonkey Script Settings and set
 - Position = 2
-- Run at = document-body
+- Run at = document-end
 - Run only in toop frame = Yes
 
